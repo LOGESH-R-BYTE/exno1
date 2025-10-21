@@ -24,7 +24,7 @@ STEP 6: Use zscore of to remove outliers
 
 import pandas as pd
 
-data=pd.read_csv(r"C:\Users\MIRDULA\Downloads\Data_set (1).csv")
+data=pd.read_csv(r"C:\Users\LOGESH\Downloads\Data_set (1).csv")
 
 print(data)
 
@@ -53,7 +53,7 @@ df.info()
 
 import pandas as pd
 
-data=pd.read_csv(r"C:\Users\MIRDULA\Downloads\Data_set (1).csv")
+data=pd.read_csv(r"C:\Users\LOGESH\Downloads\Data_set (1).csv")
 
 df=pd.DataFrame(data)
 
